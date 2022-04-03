@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15.5" height="22" viewBox="0 0 15.5 20.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5f29f6;
+      }
+    </style>
+  </defs>
+  <path id="Icon_material-notifications" data-name="Icon material-notifications" class="cls-1" d="M13.5,23.75A1.975,1.975,0,0,0,15.375,21.7h-3.75A1.969,1.969,0,0,0,13.5,23.75ZM19.125,17.6V12.468c0-3.149-1.537-5.785-4.219-6.482v-.7a1.412,1.412,0,1,0-2.812,0v.7c-2.691.7-4.219,3.323-4.219,6.482V17.6L6,19.647v1.026H21V19.647Z" transform="translate(-5.75 -3.5)"/>
+</svg>

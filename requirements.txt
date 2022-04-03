@@ -1,0 +1,23 @@
+# ===============[ Django Basic Apps ]===============
+asgiref==3.3.0
+Django==3.1.3
+pytz==2020.4
+sqlparse==0.4.1
+
+# ============[ For Image Processing and Handling ]==============
+Pillow==8.0.1
+
+# ===============[ To Create Restful API Our django app ]===============
+# djangorestframework==3.12.2
+djangorestframework==3.11.0
+django-cors-headers==3.5.0
+
+# ===============[ For Setting Files Security ]===============
+python-decouple==3.3
+
+# ============[ For token Authentication ]==============
+djangorestframework-simplejwt==4.5.0
+PyJWT==1.7.1
+
+# ===============[ Web Pack Loader for Loading Frontend App ]===============
+django-webpack-loader==0.7.0

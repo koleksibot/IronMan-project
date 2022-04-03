@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.5" height="20.5" viewBox="0 0 20.5 20.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #27c997;
+      }
+    </style>
+  </defs>
+  <path id="Icon_metro-search" data-name="Icon metro-search" class="cls-1" d="M21.951,18.948l-4.737-4.029a2.114,2.114,0,0,0-1.437-.624,7.5,7.5,0,1,0-.839.839,2.114,2.114,0,0,0,.624,1.437l4.029,4.737a1.68,1.68,0,1,0,2.361-2.361Zm-11.88-4.519a5,5,0,1,1,5-5,5,5,0,0,1-5,5Z" transform="translate(-2.321 -1.678)"/>
+</svg>

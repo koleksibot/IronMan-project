@@ -1,0 +1,43 @@
+# ==================[ Backend Directories Ignore Files ]=================
+.idea/
+.vscode
+db.sqlite3
+
+# To Securely Upload the Porjece Into Github
+Compact/settings.production.py
+Compact/urls.production.py
+.env
+
+# Ignoring Media Directory
+media/Other
+media/products
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+*.pyc
+*.py[co]
+
+# ==================[ Frontend Directories Ignore Files ]=================
+frontend/.DS_Store
+frontend/node_modules
+frontend/dist
+
+
+# local env files
+frontend/.env.local
+frontend/.env.*.local
+
+# Log files
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Editor directories and files
+frontend/.idea
+frontend/.vscode
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
