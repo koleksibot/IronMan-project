@@ -17,7 +17,7 @@ python-decouple==3.3
 
 # ============[ For token Authentication ]==============
 djangorestframework-simplejwt==4.5.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 
 # ===============[ Web Pack Loader for Loading Frontend App ]===============
 django-webpack-loader==0.7.0
